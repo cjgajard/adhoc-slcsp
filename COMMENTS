@@ -1,0 +1,7 @@
+This program can be compiled using make, it will create an executable named
+`a.out` that prints the result into stdout.
+
+Compile and run with:
+```sh
+make && ./a.out
+```
